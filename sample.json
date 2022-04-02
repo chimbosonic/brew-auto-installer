@@ -1,0 +1,24 @@
+{
+  "tools": [
+    {
+      "name": "docker",
+      "command": "docker",
+      "cask": true
+    },
+    {
+      "name": "ripgrep",
+      "command": "rg",
+      "cask": false
+    },
+    {
+      "name": "yq",
+      "command": "yq",
+      "cask": false
+    },
+    {
+      "name": "awscli",
+      "command": "aws",
+      "cask": false
+    }
+  ]
+}
