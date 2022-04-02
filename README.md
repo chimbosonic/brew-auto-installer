@@ -1,6 +1,7 @@
 # Brew Auto Installer
 
 This is a bash script to automate the install of [brew](https://github.com/Homebrew/brew) and install apps from a json file.
+
 Requires [jq](https://github.com/stedolan/jq).
 
 Written to work with macOS tho should work with [Homebrew](https://github.com/Homebrew/brew) on Linux.
@@ -33,5 +34,6 @@ usage: ./brew-auto-installer.sh [flags]
 
 The script will check if [brew](https://github.com/Homebrew/brew) and [jq](https://github.com/stedolan/jq) are available.
 If not it will install them.
+
 If you would rather install them yourself just do it before running the script.
 The script also relies on bash existing.
