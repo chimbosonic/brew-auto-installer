@@ -38,3 +38,5 @@ If not it will install them.
 If you would rather install them yourself just do it before running the script.
 
 The script also relies on bash existing.
+
+I've been made aware of Brewfile and brew bundle info [here](https://github.com/Homebrew/homebrew-bundle). That is a better approach.
