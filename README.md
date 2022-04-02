@@ -36,4 +36,5 @@ The script will check if [brew](https://github.com/Homebrew/brew) and [jq](https
 If not it will install them.
 
 If you would rather install them yourself just do it before running the script.
+
 The script also relies on bash existing.
